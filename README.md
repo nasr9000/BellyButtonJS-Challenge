@@ -6,6 +6,8 @@ In this project, our job is to build an interactive dashboard that catalogs the 
 classified as operational taxonomic units or OTUs. This is the main microbe that we analyze and use to come together for an overall summarization of our visualizations.
 
 ![image](https://github.com/nasr9000/BellyButtonJS-Challenge/assets/128746625/628f4b87-3145-42dc-b07f-908ff361c2c5)
+![image](https://github.com/nasr9000/BellyButtonJS-Challenge/assets/128746625/26d8a26e-8464-49d6-a494-08f93d379abe)
+
 
 
 Getting Started
