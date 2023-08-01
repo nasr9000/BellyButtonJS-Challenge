@@ -5,6 +5,9 @@ Project Description
 In this project, our job is to build an interactive dashboard that catalogs the microbes that colonize human navels. This dataset covers a small group of microbes 
 classified as operational taxonomic units or OTUs. This is the main microbe that we analyze and use to come together for an overall summarization of our visualizations.
 
+![image](https://github.com/nasr9000/BellyButtonJS-Challenge/assets/128746625/628f4b87-3145-42dc-b07f-908ff361c2c5)
+
+
 Getting Started
 
 Step 1
